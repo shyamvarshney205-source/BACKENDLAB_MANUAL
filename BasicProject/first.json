@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "Shyam Varshney",
+    "age": 20,
+    "city": "New Delhi",
+    "country": "India",
+    "occupation": "Student",
+    "hobbies": ["Reading", "Traveling", "Coding"],
+    "isActive": true,
+    "isplaced":null
+
+}
